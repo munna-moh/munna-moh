@@ -1,4 +1,4 @@
-👋 Hi, I'm Munna Kona
+👋 Hi, I'm Munaiah Kona
 🚀 DevOps Engineer | Middleware Specialist (MOH)
 
 I am a DevOps Engineer and Middleware Specialist currently working with the Ministry of Health (MOH). I specialize in building, automating, and operating secure, scalable, and highly available systems across enterprise environments. My work bridges infrastructure, middleware platforms, and application teams, ensuring smooth CI/CD pipelines and reliable production systems.
